@@ -20,5 +20,3 @@ Utiliza la **Python Imaging Library** para hacer lo siguiente a un lote de imág
 - **Rotar una imagen**
 - **Redimensionar una imagen**
 - **Guardar una imagen en un formato específico en un directorio separado**
-
-Tendrás **90 minutos** para completar este laboratorio.
