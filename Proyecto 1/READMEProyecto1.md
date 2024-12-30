@@ -3,7 +3,7 @@
 ## Introducción
 
 Su empresa está actualizando su sitio web y ha contratado a un diseñador para que cree nuevos iconos gráficos.  
-Pero el contratista ha entregado los diseños finales en un formato incorrecto: **girados 90° y demasiado grandes**.  
+Pero el contratista ha entregado los diseños finales **en un formato incorrecto, girados 90° y demasiado grandes**.  
 No puedes ponerte en contacto con los diseñadores y tu propio plazo de entrega se acerca rápidamente.  
 Necesitarás usar Python para tener estas imágenes listas para el lanzamiento.
 
