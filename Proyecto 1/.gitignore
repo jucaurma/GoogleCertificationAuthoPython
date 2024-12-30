@@ -1,0 +1,9 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Otros archivos o carpetas innecesarios
+.DS_Store
