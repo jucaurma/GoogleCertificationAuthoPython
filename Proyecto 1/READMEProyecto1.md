@@ -27,3 +27,10 @@ Utiliza la **Python Imaging Library** para hacer lo siguiente a un lote de imág
 - **Rotar una imagen**
 - **Redimensionar una imagen**
 - **Guardar una imagen en un formato específico en un directorio separado**
+
+---
+
+Resultado del ejercicio: process_images.py
+Solución proporcionada: process_images_solution.py
+
+La solucion proporcionada está condicionada por los requisitos de Qwicklabs y la comprobacion de su funcionamiento
