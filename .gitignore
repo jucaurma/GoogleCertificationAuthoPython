@@ -1,9 +1,19 @@
 # Ignorar entorno virtual
 venv/
 
-# Archivos temporales de Python
+# Ignorar archivos temporales de Python
 *.pyc
 __pycache__/
 
-# Otros archivos o carpetas innecesarios
+# Ignorar archivos de sistema innecesarios
 .DS_Store
+
+# Ignorar imágenes procesadas
+Proyecto1/output_images/
+
+# Ignorar cachés y compilados
+Proyecto2/__pycache__/
+Proyecto1/__pycache__/
+
+# Ignorar carpetas ocultas
+.*
